@@ -1,4 +1,4 @@
-Study-of-basic-digital-IC-s-andverification-of-truth-tables-for-differentlogic-gates-realization- 
+## Study-of-basic-digital-IC-s-andverification-of-truth-tables-for-differentlogic-gates-realization- 
  AIM: 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming. 
  
